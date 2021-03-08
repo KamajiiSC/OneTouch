@@ -3,7 +3,7 @@ import './LandingPage.css';
 import Header from '../Header/Header';
 
 const LandingPage = () => (
-  <section className="landing">
+  <section id="landing">
     <Header />
     
   </section>

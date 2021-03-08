@@ -4,7 +4,9 @@ import Logo from '../../resources/onetouch-logo.svg';
 
 const Header = () => (
   <header>
-    <img src={Logo} alt="Site logo for OneTouch" className="site-logo"/>
+    <a href="#" id="logo-btn">
+      <img src={Logo} alt="Site logo for OneTouch" id="site-logo"/>
+    </a>
 
     <nav>
       <ul>
@@ -14,7 +16,7 @@ const Header = () => (
         <li><a href="#">Contact Us</a></li>
       </ul>
     </nav>
-  </header>
+  </header> 
 );
 
 export default Header;
