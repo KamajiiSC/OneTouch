@@ -2,3 +2,11 @@
   background-image: linear-gradient(#47C3F5, #B7E6F8);
   height: 100vh; 
 }
+
+.landing-blurb-img{
+  display: flex;
+}
+
+.model-img{
+  max-width: 30%;
+}
