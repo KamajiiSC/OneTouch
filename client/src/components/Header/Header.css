@@ -1,17 +1,26 @@
 header{
   display: flex;
   justify-content: space-around;
+  align-items: center;
   margin: 0 auto;
   padding: 1em;
   width: 85%;
 }
 
+nav{
+  width: 50%;
+  margin-left: 20%;
+}
+
 nav ul{
   list-style: none;
   display: flex;
+  justify-content: space-around;
+  width: 100%;
 }
 
 nav ul li a{
   text-decoration: none;
   color: white;
+  font-size: 1.8rem;
 }
