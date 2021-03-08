@@ -5,3 +5,13 @@ header{
   padding: 1em;
   width: 85%;
 }
+
+nav ul{
+  list-style: none;
+  display: flex;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
