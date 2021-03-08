@@ -6,6 +6,17 @@ const LandingPage = () => (
   <section id="landing">
     <Header />
     
+    <h1>OneTouch Training</h1>
+    <p className="title-desc">
+      Rates starting at $14.99 per hour!
+      Safe, Professional, and Reliable personal training is only OneTouch away
+    </p>    
+
+    <div className="cta">
+      <h3 className="cta-title">Find us at one of our 30 locations!</h3>
+      <a href="#" rel="noopener noreferrer" className="cta-btn"></a>
+    </div>
+
   </section>
 );
 
