@@ -14,7 +14,7 @@ const LandingPage = () => (
 
     <div className="cta">
       <h3 className="cta-title">Find us at one of our 30 locations!</h3>
-      <a href="#" rel="noopener noreferrer" className="cta-btn"></a>
+      <a href="#" rel="noopener noreferrer" className="cta-btn">Call Now!</a>
     </div>
 
   </section>
