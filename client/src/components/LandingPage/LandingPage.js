@@ -11,8 +11,8 @@ const LandingPage = () => (
       <section className="blurb">
         <h1>OneTouch Training</h1>
         <p className="title-desc">
-          Rates starting at $14.99 per hour!
-          Safe, Professional, and Reliable personal training is only OneTouch away
+          Rates starting at $14.99 per hour!<br/>
+          Safe, Professional, and Reliable personal training<br/> is only OneTouch away
         </p>  
       </section>
 

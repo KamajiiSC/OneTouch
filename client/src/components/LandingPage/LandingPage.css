@@ -10,9 +10,18 @@ h1{
 
 .landing-blurb-img{
   display: flex;
+  justify-content: space-around;
+  align-items: center;
   color:white;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.title-desc{
+  font-size:1.7rem;
+  text-align: center;
 }
 
 .model-img{
-  max-width: 30%;
+  max-width: 40%;
 }
