@@ -1,6 +1,7 @@
 import React from 'react';
 import './LandingPage.css';
 import Header from '../Header/Header';
+import Model from '../../resources/coach-model.png';
 
 const LandingPage = () => (
   <section id="landing">
@@ -14,8 +15,8 @@ const LandingPage = () => (
           Safe, Professional, and Reliable personal training is only OneTouch away
         </p>  
       </section>
-      
-      <img src="" alt="Fit man holding clipboard" className="model-img"/>
+
+      <img src={Model} alt="Fit man holding clipboard" className="model-img"/>
     </section>
     
 
