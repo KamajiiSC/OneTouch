@@ -3,7 +3,7 @@ import './FindPage.css';
 
 const FindPage = () => (
   <section className="find-page">
-
+    Find
   </section>
 );
 
