@@ -1,9 +1,10 @@
 import React from 'react';
 import './Header.css';
+import Logo from '../../resources/onetouch-logo.svg';
 
 const Header = () => (
   <header>
-    <img src="" alt="" className="site-logo"/>
+    <img src={Logo} alt="Site logo for OneTouch" className="site-logo"/>
 
     <nav>
       <ul>
