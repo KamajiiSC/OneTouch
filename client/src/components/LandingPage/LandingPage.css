@@ -25,3 +25,12 @@ h1{
 .model-img{
   max-width: 40%;
 }
+
+.cta{
+  background: white;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+}
